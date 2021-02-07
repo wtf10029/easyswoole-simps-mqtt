@@ -12,7 +12,7 @@ EasySwoole-Simps-Mqtt V1.0版本由 [EasySwoole](https://www.easyswoole.com/Pref
 * 进行简单的配置即可使用
 
 
-如果需要更新框架使用
+框架使用
 ~~~
 1：dev.php、produce.php 配置 MQTT
 2：执行 php easyswoole server start 即可
